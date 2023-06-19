@@ -85,4 +85,4 @@ return view('artikel/form_add', compact('title'));
 
 ## Done
 
-# Panjang Umur Untuk Semua Hal-Hal Baik
+# Terimakasih :)
