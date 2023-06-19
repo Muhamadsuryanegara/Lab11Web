@@ -2,18 +2,32 @@
 # Praktikum 11
 ## Profile
 <body>
-    <table border="1">
-        <tr>
-            <th> Nama</th>
-            <th>NIM</th>
-            <th>Kelas</th>
-        </tr>
-        <tr>
-            <td>Adam Surya Ananda</td>
-            <td>312110297</td>
-            <td>TI.21.A.1</td>
-        </tr>
-    </table>
+    <table>
+<thead>
+<tr>
+<th>#</th>
+<th>Biodata</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nama</strong></td>
+<td>Muhamad Suryanegara</td>
+</tr>
+<tr>
+<td><strong>NIM</strong></td>
+<td>312110447</td>
+</tr>
+<tr>
+<td><strong>Kelas</strong></td>
+<td>TI.21.A.1</td>
+</tr>
+<tr>
+<td><strong>Mata Kuliah</strong></td>
+<td>Pemrograman Web 2</td>
+</tr>
+</tbody>
+</table>
 </body>
 
 ## Intructions
